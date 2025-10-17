@@ -26,7 +26,7 @@ A modern, React-based hiring platform for managing candidates, jobs, and assessm
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/talentflow-hiring-platform.git
+git clone https://github.com/Vedvart98/-TALENTFLOW-A-MINI-HIRING-PLATFORM.git
 cd talentflow-hiring-platform
 ```
 
