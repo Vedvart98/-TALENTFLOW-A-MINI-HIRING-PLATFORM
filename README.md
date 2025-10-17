@@ -1,4 +1,4 @@
-q# TalentFlow - Mini Hiring Platform
+# TalentFlow - Mini Hiring Platform
 
 A modern, React-based hiring platform for managing candidates, jobs, and assessments with an intuitive drag-and-drop interface.
 
