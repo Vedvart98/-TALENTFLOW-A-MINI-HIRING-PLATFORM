@@ -121,10 +121,6 @@ The app automatically seeds with:
 4. Push to branch (`git push origin feature/amazing-feature`)
 5. Open Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🙋‍♂️ Support
 
 For support or questions, please open an issue in the GitHub repository.
